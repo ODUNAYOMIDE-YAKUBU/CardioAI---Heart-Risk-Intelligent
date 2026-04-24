@@ -378,7 +378,6 @@ If you use this project in your research, please cite:
                for Heart Disease Prediction in Healthcare Systems},
   author    = {[Odunayomide YAKUBU]},
   year      = {2026},
-  school    = {[Your University]},
   note      = {Available at: https://github.com/ODUNAYOMIDE-YAKUBU/cardioai}
 }
 ```
